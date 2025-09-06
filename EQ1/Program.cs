@@ -13,6 +13,7 @@ class Program
         time.Start();
         var result = Solver.GetSubarray(array, indexArray);
         time.Stop();
+        Console.WriteLine($"Time elapsed: {time.Elapsed}");
     }
 }
 

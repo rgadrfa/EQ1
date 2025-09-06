@@ -1,0 +1,12 @@
+C:\Users\drami\RiderProjects\EQ1\SOLVER\obj\Debug\net9.0\SOLVER.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\drami\RiderProjects\EQ1\SOLVER\obj\Debug\net9.0\SOLVER.AssemblyInfoInputs.cache
+C:\Users\drami\RiderProjects\EQ1\SOLVER\obj\Debug\net9.0\SOLVER.AssemblyInfo.cs
+C:\Users\drami\RiderProjects\EQ1\SOLVER\obj\Debug\net9.0\SOLVER.csproj.CoreCompileInputs.cache
+C:\Users\drami\RiderProjects\EQ1\SOLVER\obj\Debug\net9.0\SOLVER.sourcelink.json
+C:\Users\drami\RiderProjects\EQ1\SOLVER\bin\Debug\net9.0\SOLVER.deps.json
+C:\Users\drami\RiderProjects\EQ1\SOLVER\bin\Debug\net9.0\SOLVER.dll
+C:\Users\drami\RiderProjects\EQ1\SOLVER\bin\Debug\net9.0\SOLVER.pdb
+C:\Users\drami\RiderProjects\EQ1\SOLVER\obj\Debug\net9.0\SOLVER.dll
+C:\Users\drami\RiderProjects\EQ1\SOLVER\obj\Debug\net9.0\refint\SOLVER.dll
+C:\Users\drami\RiderProjects\EQ1\SOLVER\obj\Debug\net9.0\SOLVER.pdb
+C:\Users\drami\RiderProjects\EQ1\SOLVER\obj\Debug\net9.0\ref\SOLVER.dll

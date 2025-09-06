@@ -1,4 +1,5 @@
-﻿using SOLVER;
+﻿using System.Diagnostics;
+using SOLVER;
 
 class Program
 {
@@ -6,9 +7,12 @@ class Program
     {
         var array = new int[] { 1, 2, 3, 4, 5, 6, 7, 8, 9, 10 };
         var matrix = new double[,] { { 1, 2, 3 }, { 4, 5, 6 }, { 7, 8, 9 } };
-        
         var indexArray = new int[] { 0, 3 };
+        
+        var time = new Stopwatch();
+        time.Start();
         var result = Solver.GetSubarray(array, indexArray);
+        time.Stop();
     }
 }
 

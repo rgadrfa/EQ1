@@ -10,10 +10,7 @@ class Program
         var indexArray = new int[] { 0, 3 };
         
         var time = new Stopwatch();
-        time.Start();
         var result = Solver.GetSubarray(array, indexArray);
-        time.Stop();
-        Console.WriteLine($"Time elapsed: {time.Elapsed}");
     }
 }
 

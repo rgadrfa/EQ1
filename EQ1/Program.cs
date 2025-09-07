@@ -9,7 +9,8 @@ class Program
         var matrix = new double[,] { { 1, 2, 3 }, { 4, 5, 6 }, { 7, 8, 9 } };
         var indexArray = new int[] { 0, 3 };
         
-        var time = new Stopwatch();
+        Console.WriteLine("Проверка");
+        //Проверка
         var result = Solver.GetSubarray(array, indexArray);
     }
 }
